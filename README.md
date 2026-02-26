@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Hồ Như Vương
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
-
+Chương trình chatbot được tạo ra từ Sếp Vương (https://nhuvuongweb.com/)
 
